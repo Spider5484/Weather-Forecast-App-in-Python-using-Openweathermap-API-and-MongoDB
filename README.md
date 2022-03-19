@@ -38,16 +38,16 @@ On running the app present in the repository, the 5 day 3 hour apart forecast ge
 
 ### Observations:
 First, we are presented with the weather alerts in the 5 day forecast. If the weather forecast for designated cities has rain, snow or freezing temperatures (<2 Fahrenheit) then we will get weather alert. It is shown in figure below:
-![weather_alerts](https://github.com/shayanalibhatti/Weather_forecast_app/blob/master/weather_alerts.jpg?raw=true)
+![weather_alerts](https://github.com/Spider5484/Weather-Forecast-App-in-Python-using-Openweathermap-API-and-MongoDB/blob/main/weather_alerts.jpg)
 
 Following image shows data for Karachi for 14th March 3am. Click to enlarge the image.
-![Karachi_weather](https://github.com/shayanalibhatti/Weather_forecast_app/blob/master/weather_map.png?raw=true)
+![Karachi_weather](https://github.com/Spider5484/Weather-Forecast-App-in-Python-using-Openweathermap-API-and-MongoDB/blob/main/weather_map.png)
 
 Following image shows the latest (5th day) London weather forecast for 19th March 5pm. If we click on the weather icon, in this case, the clouds, then a Popup shows the temperature.
-![london_weather](https://github.com/shayanalibhatti/Weather_forecast_app/blob/master/london_latest_weather.jpg?raw=true)
+![london_weather](https://github.com/Spider5484/Weather-Forecast-App-in-Python-using-Openweathermap-API-and-MongoDB/blob/main/london_latest_weather.jpg)
 
 Following image shows the plot of all the weathers for Utah present in database with temperature in Fahrenheit w.r.t date and time.
-![utah_weather](https://github.com/shayanalibhatti/Weather_forecast_app/blob/master/utah_weather_forecast_details.jpg?raw=true)
+![utah_weather](https://github.com/Spider5484/Weather-Forecast-App-in-Python-using-Openweathermap-API-and-MongoDB/blob/main/utah_weather_forecast_details.jpg)
 
 Here is how the data in MongoDB looks like. We get temperature info, weather description, wind and timestamps.
 ![Mongodb](https://github.com/Spider5484/Weather-Forecast-App-in-Python-using-Openweathermap-API-and-MongoDB/blob/main/mongo_snap.jpg)
